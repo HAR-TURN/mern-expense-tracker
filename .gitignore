@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# VS Code settings
+.vscode/
